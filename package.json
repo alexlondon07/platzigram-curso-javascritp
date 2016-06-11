@@ -12,7 +12,8 @@
   "author": "platzi",
   "dependencies": {
     "express": "^4.13.4",
-    "materialize-css": "^0.97.6"
+    "materialize-css": "^0.97.6",
+    "pug": "^2.0.0-beta3"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
