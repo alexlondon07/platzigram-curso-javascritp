@@ -4,6 +4,9 @@ var app = express();
 
 app.set('view engine', 'pug');
 
+//Sirviendo archivos estaticos con Express
+app.use(express.static('public'));
+
 app.get('/', function (req, res) {
   //res.send('Hola mundo!');
   res.render('index', { })
