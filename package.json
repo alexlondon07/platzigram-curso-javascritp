@@ -4,15 +4,16 @@
   "description": "Comparte tus fotos estudiando en Platzi con el resto de la comunidad",
   "main": "server.js",
   "keywords": [
-    "platzi",
+    "alexlondon07",
     "javascript",
     "curso-definitivo",
     "platzigram"
   ],
-  "author": "platzi",
+  "author": "alexlondon07",
   "dependencies": {
     "express": "^4.13.4",
     "materialize-css": "^0.97.6",
+    "page": "^1.7.1",
     "pug": "^2.0.0-beta3"
   },
   "devDependencies": {
@@ -20,7 +21,7 @@
     "browserify": "^13.0.1",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.1",
+    "gulp-sass": "^2.3.2",
     "vinyl-source-stream": "^1.1.0"
   }
 }
